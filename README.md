@@ -34,4 +34,4 @@ In the end, there are four classifier methods:
 
 Performance was tested for all of them so to decide which is more accurate.
 
-! Disclaimer: The code is not my property. Information about the authors are clearly stated in each file !
+! Disclaimer: Parts of the code is written by the team of KU Leuven CS Department !
